@@ -6,4 +6,6 @@
 
 ### Made with ![](streamlit-logo.png)
 ### Powered with ![Fast ai](fastai.png)
+![](animated.gif)
+
 
